@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/phpto-album.iml" filepath="$PROJECT_DIR$/.idea/phpto-album.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../photo-album/.idea/phpto-album.iml" filepath="$PROJECT_DIR$/../photo-album/.idea/phpto-album.iml" />
     </modules>
   </component>
 </project>
