@@ -1,13 +1,13 @@
 version: '3'
 services:
-  vuesplash_web:
+  phpto-album_web:
     build: .
     volumes:
       - ./web:/var/www/html/photo-album
     ports:
       - 8081:8081
       - 3000:3000
-  vuesplash_database:
+  photo-album_database:
     image: postgres:11-alpine
     restart: always
     environment:
