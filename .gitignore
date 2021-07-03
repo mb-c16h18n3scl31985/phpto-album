@@ -227,3 +227,4 @@ dist
 .pnp.*
 
 
+/database/
